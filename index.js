@@ -1,7 +1,7 @@
 /** 얕은 복사 */
 const info = { name: "inseop", age: 30, job: "sw engineer" };
 const info2 = info;
-info2.name = "gyeongrak";
+info2.name = "ssojung";
 
 console.log(info);
 console.log(info2);
