@@ -6,6 +6,8 @@ info2.name = "ssojung";
 console.log(info);
 console.log(info2);
 console.log(info === info2); // true
+console.log(info === info2); // true2
+console.log(info === info2); // true3
 
 /** 깊은 복사 */
 // const info = {
